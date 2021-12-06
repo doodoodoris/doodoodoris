@@ -1,4 +1,4 @@
-### http://doodoodoris.github.io
+### doodoodoris.github.io
 
 <!--
 **doodoodoris/doodoodoris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
